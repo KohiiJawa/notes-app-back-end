@@ -1,0 +1,22 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true,
+        "node" : true
+    },
+    "extends" : [
+       
+    ],
+    "overrides": [
+
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "rules": {
+        "no-console" : "off",
+        "no-unused-vars" : "off",
+        "line-break-style" : "off"
+    }
+}
