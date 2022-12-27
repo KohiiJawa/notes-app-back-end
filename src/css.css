@@ -1,0 +1,23 @@
+*, html, body{
+    margin: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main-part{
+    width: 100%;
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.wrapper{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 65vh;
+    height: auto;
+    padding: 1vh 2vh 1vh 2vh;
+    background-color: #eaeaea;
+}
